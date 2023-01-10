@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+You can contact me on - acac36@naver.com or yhj03069@gmail.com
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=acac36)](https://solved.ac/acac36/)
 
 <!--
