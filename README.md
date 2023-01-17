@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning swiftUI
 
-You can contact me on - acac36@naver.com or yhj03069@gmail.com
+- You can contact me on - acac36@naver.com or yhj03069@gmail.com
 - my blog - https://velog.io/@cyberman0306
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=acac36)](https://solved.ac/acac36/)
