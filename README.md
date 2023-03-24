@@ -4,7 +4,7 @@
 - You can contact me on - acac36@naver.com or yhj03069@gmail.com
 - my blog - https://velog.io/@cyberman0306
 
-my app
+  my app - 
 - MenuDice https://apps.apple.com/kr/app/menudice/id6445906688
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=acac36)](https://solved.ac/acac36/)
