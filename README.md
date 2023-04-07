@@ -8,8 +8,9 @@
 - MenuDice https://apps.apple.com/kr/app/menudice/id6445906688
 - 5 SETS https://apps.apple.com/kr/app/5-sets/id6446591034
 
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=acac36)](https://solved.ac/acac36/)
-
+-->
 <!--
 **cyberman0306/cyberman0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
