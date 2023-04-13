@@ -4,7 +4,7 @@
 - You can contact me on - acac36@naver.com or yhj03069@gmail.com
 - my blog - https://velog.io/@cyberman0306
 
-<a href="https://github.com/cyberman0306" target="_blank"><img src="https://img.shields.io/badge/awy0626@gmail.com-EA4335?style=flat&logo=gmail&logoColor=FFFFFF"/></a>
+<a href="https://github.com/cyberman0306" target="_blank"><img src="https://img.shields.io/badge/yhj03069@gmail.com-EA4335?style=flat&logo=gmail&logoColor=FFFFFF"/></a>
 
 ### Skills 💪
 
@@ -26,11 +26,10 @@ Tools
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
   
 
-<a href="https://github.com/Tera98" target="_blank"><img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellijidea&logoColor=FFFFFF"/></a>
-<a href="https://github.com/Tera98" target="_blank"><img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=pycharm&logoColor=FFFFFF"/></a>
-<a href="https://github.com/Tera98" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF"/></a>
-<a href="https://github.com/Tera98" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF"/></a>
-
+<a href="https://github.com/cyberman0306" target="_blank"><img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellijidea&logoColor=FFFFFF"/></a>
+<a href="https://github.com/cyberman0306" target="_blank"><img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=pycharm&logoColor=FFFFFF"/></a>
+<a href="https://github.com/cyberman0306" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF"/></a>
+<a href="https://github.com/cyberman0306" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF"/></a>
 
 
 - my app
@@ -39,21 +38,3 @@ Tools
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberman0306&show_icons=true&theme=radical)
-
-<!--
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=acac36)](https://solved.ac/acac36/)
--->
-<!--
-**cyberman0306/cyberman0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
