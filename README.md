@@ -18,7 +18,7 @@ Platforms & Languages
 
   
 Tools
-  <br/>  
+
    <br/>   
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
@@ -27,14 +27,12 @@ Tools
   <img src="https://img.shields.io/badge/stm32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=pycharm&logoColor=FFFFFF"/>
    <br/>  
-  <br/>   
+
 
 
 <a href="https://github.com/cyberman0306" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF"/></a>
 <a href="https://github.com/cyberman0306" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF"/></a>
 
-  <br/>  
-  <br/>   
   <br/>  
   <br/>   
   
