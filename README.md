@@ -42,3 +42,4 @@ Tools
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberman0306&show_icons=true&theme=radical)
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=cyberman0306&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=swift" align="center" />
