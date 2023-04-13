@@ -29,6 +29,5 @@ Tools
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF"/>
    <br/>   
    
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberman0306&show_icons=true&theme=radical)
+[![cyberman0306's github stats](https://github-readme-stats.vercel.app/api?cyberman0306=cyberman0306)]
 
