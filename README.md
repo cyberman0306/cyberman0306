@@ -26,8 +26,7 @@ Tools
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/stm32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
-  <a href="https://github.com/cyberman0306" target="_blank"><img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellijidea&logoColor=FFFFFF"/></a>
-<a href="https://github.com/cyberman0306" target="_blank"><img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=pycharm&logoColor=FFFFFF"/></a>
+  <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=pycharm&logoColor=FFFFFF"/>
    <br/>  
   <br/>   
 
