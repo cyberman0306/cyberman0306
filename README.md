@@ -31,4 +31,4 @@ Tools
    
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberman0306&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberman0306&layout=레이아웃 스타일&theme=tokyonight)
+
