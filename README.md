@@ -9,17 +9,17 @@
 ### Skills 💪
 
 Platforms & Languages
-  <br/>
+
   <br/>   
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-    <br/>
+
   <br/>   
   
 Tools
-  <br/>
+
   <br/>   
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google%20Colab&logoColor=white"/>
@@ -27,7 +27,7 @@ Tools
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
-    <br/>
+
   <br/>   
 
 <a href="https://github.com/cyberman0306" target="_blank"><img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellijidea&logoColor=FFFFFF"/></a>
