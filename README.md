@@ -1,11 +1,10 @@
 ### Hi there 👋
-- 🌱 I’m currently learning swiftUI
-
-- You can contact me on - acac36@naver.com or yhj03069@gmail.com
-- my blog - https://velog.io/@cyberman0306
-
 <a href="https://github.com/cyberman0306" target="_blank"><img src="https://img.shields.io/badge/yhj03069@gmail.com-EA4335?style=flat&logo=gmail&logoColor=FFFFFF"/></a>
 
+### My app
+- MenuDice https://apps.apple.com/kr/app/menudice/id6445906688
+- 5 SETS https://apps.apple.com/kr/app/5-sets/id6446591034
+- 
 ### Skills 💪
 
 Platforms & Languages
@@ -34,11 +33,5 @@ Tools
 <a href="https://github.com/cyberman0306" target="_blank"><img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=pycharm&logoColor=FFFFFF"/></a>
 <a href="https://github.com/cyberman0306" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF"/></a>
 <a href="https://github.com/cyberman0306" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF"/></a>
-
-
-- my app
-- MenuDice https://apps.apple.com/kr/app/menudice/id6445906688
-- 5 SETS https://apps.apple.com/kr/app/5-sets/id6446591034
-
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberman0306&show_icons=true&theme=radical)
