@@ -28,8 +28,8 @@ Tools
    <br/>  
    
   <br/> 
-<a href="https://github.com/cyberman0306" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF"/></a>
-<a href="https://github.com/cyberman0306" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF"/></a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF"/>
   <br/>  
-  
+    <br/>    <br/>  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberman0306&show_icons=true&theme=radical)
