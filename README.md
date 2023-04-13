@@ -4,7 +4,7 @@
 ### My app
 - MenuDice https://apps.apple.com/kr/app/menudice/id6445906688
 - 5 SETS https://apps.apple.com/kr/app/5-sets/id6446591034
-- 
+
 ### Skills 💪
 
 Platforms & Languages
@@ -21,7 +21,6 @@ Tools
   <br/>  
    <br/>   
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google%20Colab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/>
