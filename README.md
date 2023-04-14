@@ -4,7 +4,7 @@
 ### My app
 - MenuDice https://apps.apple.com/kr/app/menudice/id6445906688
 - 5 SETS https://apps.apple.com/kr/app/5-sets/id6446591034
-
+- SQUATS 100 https://apps.apple.com/kr/app/squats-100/id6447616127
 ### Skills 💪
 
 Platforms & Languages
