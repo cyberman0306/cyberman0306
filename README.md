@@ -3,7 +3,7 @@
 
 ### in work
 CUPIA 포털 관리팀
-모바일 관세청, 여행자 세관 신고 - https://apps.apple.com/kr/developer/korea-customs-service/id372764166
+- 모바일 관세청, 여행자 세관 신고 - https://apps.apple.com/kr/developer/korea-customs-service/id372764166
 
 
 ### My app
