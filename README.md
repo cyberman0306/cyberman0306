@@ -2,9 +2,8 @@
 <a href="https://github.com/cyberman0306" target="_blank"><img src="https://img.shields.io/badge/yhj03069@gmail.com-EA4335?style=flat&logo=gmail&logoColor=FFFFFF"/></a>
 
 ### in work
-CUPIA 포털 관리팀 - 
-모바일 관세청 - https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B4%80%EC%84%B8%EC%B2%AD/id1100073666
-여행자 세관 신고 - https://apps.apple.com/kr/app/%EC%97%AC%ED%96%89%EC%9E%90-%EC%84%B8%EA%B4%80%EC%8B%A0%EA%B3%A0/id1596697323
+CUPIA 포털 관리팀
+모바일 관세청, 여행자 세관 신고 - https://apps.apple.com/kr/developer/korea-customs-service/id372764166
 
 
 ### My app
