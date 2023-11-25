@@ -34,6 +34,7 @@ Tools
   <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=pycharm&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
    <br/>   
    
 ![cyberman0306's github stats](https://github-readme-stats.vercel.app/api?username=cyberman0306)
