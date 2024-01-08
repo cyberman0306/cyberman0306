@@ -7,9 +7,10 @@ CUPIA 포털 관리팀
 
 
 ### My app
-- MenuDice https://apps.apple.com/kr/app/menudice/id6445906688
-- 5 SETS https://apps.apple.com/kr/app/5-sets/id6446591034
-- SQUATS 100 https://apps.apple.com/kr/app/squats-100/id6447616127
+- MenuDice (iOS) https://apps.apple.com/kr/app/menudice/id6445906688
+- 5 SETS (iOS) https://apps.apple.com/kr/app/5-sets/id6446591034
+- SQUATS 100 (iOS) https://apps.apple.com/kr/app/squats-100/id6447616127
+- 전국정부청사식단 (iOS) https://apps.apple.com/kr/app/%EC%A0%84%EA%B5%AD%EC%A0%95%EB%B6%80%EC%B2%AD%EC%82%AC%EC%8B%9D%EB%8B%A8/id6475301496
 ### Skills 💪
 
 Platforms & Languages
