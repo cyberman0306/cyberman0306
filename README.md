@@ -1,11 +1,6 @@
 ### Hi there 👋
 <a href="https://github.com/cyberman0306" target="_blank"><img src="https://img.shields.io/badge/yhj03069@gmail.com-EA4335?style=flat&logo=gmail&logoColor=FFFFFF"/></a>
 
-### in work
-CUPIA 포털 관리팀
-- 모바일 관세청, 여행자 세관 신고 - https://apps.apple.com/kr/developer/korea-customs-service/id372764166
-
-
 ### My app
 - MenuDice (iOS) https://apps.apple.com/kr/app/menudice/id6445906688
 - 5 SETS (iOS) https://apps.apple.com/kr/app/5-sets/id6446591034
