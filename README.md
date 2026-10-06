@@ -33,5 +33,4 @@ Tools
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
       + cordova... :)
    <br/>   
-   
-![cyberman0306's github stats](https://github-readme-stats.vercel.app/api?username=cyberman0306)
+    
